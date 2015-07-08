@@ -1,0 +1,3 @@
+[submodule "leshan"]
+	path = leshan
+	url = https://github.com/eclipse/leshan.git
